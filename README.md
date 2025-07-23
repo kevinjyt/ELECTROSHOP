@@ -1,6 +1,6 @@
 # ElectroShop Kenya
 
-This is a simple e-commerce website for a fictional electronics shop in Kenya.
+BEST DEALERS
 
 ## Features
 
